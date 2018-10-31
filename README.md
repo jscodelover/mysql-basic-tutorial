@@ -1,2 +1,2 @@
 # mysql-basic-tutorial
-create for tutorial purpose
+creatd for tutorial purpose
